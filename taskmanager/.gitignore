@@ -1,0 +1,13 @@
+# Ignore virtual environment
+env/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore SQLite database
+db.sqlite3
+
+# Ignore log files or secrets
+*.log
+.env
