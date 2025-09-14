@@ -26,21 +26,21 @@ It helps users to create, update, and manage daily tasks efficiently with a clea
 --> Follow these steps to run the project locally: <br><br>
 
 1️⃣ **Clone the repository**<br>
-git clone https://github.com/Creative-Hituu/django-task-manager.git<br>
+git clone https://github.com/Creative-Hituu/django-task-manager.git<br><br>
 2️⃣ Navigate to the project directory<br>
-cd django-task-manager<br>
+cd django-task-manager<br><br>
 3️⃣ Create and activate a virtual environment<br>
 python -m venv venv<br>
 venv\Scripts\activate   # On Windows<br>
-source venv/bin/activate   # On Mac/Linux<br>
+source venv/bin/activate   # On Mac/Linux<br><br>
 4️⃣ Install dependencies<br>
-pip install -r requirements.txt<br>
+pip install -r requirements.txt<br><br>
 5️⃣ Apply database migrations<br>
-python manage.py migrate<br>
+python manage.py migrate<br><br>
 6️⃣ Run the development server<br>
-python manage.py runserver<br>
+python manage.py runserver<br><br>
 7️⃣ Open your browser and go to:<br>
-👉 http://127.0.0.1:8000<br><br>
+👉 http://127.0.0.1:8000<br><br><br>
 
 ⚠️ Note:
 Make sure you have Python 3.8+ Version, pip Install, and virtualenv installed before running this project.
@@ -48,7 +48,7 @@ Make sure you have Python 3.8+ Version, pip Install, and virtualenv installed be
 ## 📬 Contact  
 
 👤 **Hitanshu Prajapati**  
-📧 Email: hitanshubro1@gmail.com
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/hitanshu-prajapati-hi)  
+📧 Email: hitanshubro1@gmail.com<br>
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/hitanshu-prajapati-hi) <br>
 💻 [GitHub Profile](https://github.com/Creative-Hituu)  
 
