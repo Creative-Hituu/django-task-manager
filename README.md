@@ -26,19 +26,19 @@ It helps users to create, update, and manage daily tasks efficiently with a clea
 --> Follow these steps to run the project locally: <br><br>
 
 1️⃣ **Clone the repository**<br>
-git clone https://github.com/Creative-Hituu/django-task-manager.git<br><br>
+--> git clone https://github.com/Creative-Hituu/django-task-manager.git<br><br>
 2️⃣ Navigate to the project directory<br>
-cd django-task-manager<br><br>
+--> cd django-task-manager<br><br>
 3️⃣ Create and activate a virtual environment<br>
-python -m venv venv<br>
-venv\Scripts\activate   # On Windows<br>
-source venv/bin/activate   # On Mac/Linux<br><br>
+--> python -m venv venv<br>
+--> venv\Scripts\activate   # On Windows<br>
+--> source venv/bin/activate   # On Mac/Linux<br><br>
 4️⃣ Install dependencies<br>
-pip install -r requirements.txt<br><br>
+--> pip install -r requirements.txt<br><br>
 5️⃣ Apply database migrations<br>
-python manage.py migrate<br><br>
+--> python manage.py migrate<br><br>
 6️⃣ Run the development server<br>
-python manage.py runserver<br><br>
+--> python manage.py runserver<br><br>
 7️⃣ Open your browser and go to:<br>
 👉 http://127.0.0.1:8000<br><br><br>
 
