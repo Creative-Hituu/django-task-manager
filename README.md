@@ -1,7 +1,7 @@
 # Django Task Manager  
 
-A simple yet powerful **Task Manager web application** built with **Django**.  
-It helps users to create, update, and manage daily tasks efficiently with a clean and user-friendly interface.  
+--> A simple yet powerful **Task Manager web application** built with **Django**.<br>
+--> It helps users to create, update, and manage daily tasks efficiently with a clean and user-friendly interface.  
 
 ---
 
@@ -45,7 +45,7 @@ It helps users to create, update, and manage daily tasks efficiently with a clea
 ⚠️ Note:
 Make sure you have Python 3.8+ Version, pip Install, and virtualenv installed before running this project.
 
-## 📬 Contact  
+## 📬 Contact Me
 
 👤 **Hitanshu Prajapati**  
 📧 Email: hitanshubro1@gmail.com<br>
